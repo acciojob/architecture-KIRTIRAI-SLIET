@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.body {
+	width: 110px;
+	background-color: black;
+}
+
+.imageContainer {
+	width:100%;
+}
+
+.table, td {
+	border: 1px, solid, #000;
+}
